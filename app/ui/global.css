@@ -16,3 +16,8 @@ input[type='number']::-webkit-outer-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+
+.text-red-500 {
+  color: #f56565;
+  font-weight: 500;
+}
